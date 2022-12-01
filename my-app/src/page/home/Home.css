@@ -1,0 +1,27 @@
+
+.container{
+    width: 1080px;
+    margin: 0 auto;
+}
+.overall{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.image{
+    width: 470px;
+    /* height: 500px; */
+    margin:10px 30px;
+}
+ img{
+    width: 50%;
+}
+a{
+    text-decoration: none;
+}
+.btn button{
+    margin: 0 10px;
+}
+.card{
+    background-color: aqua;
+}
